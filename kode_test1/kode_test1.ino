@@ -5,7 +5,7 @@
 #define DHT_TYPE DHT22
 #define DHT_PIN A0
 #define FAN_PIN 8
-#define LAMP_PIN 9
+#define LAMP_PIN 13
 
 DHT dht(DHT_PIN, DHT_TYPE);
 
